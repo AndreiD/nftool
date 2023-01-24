@@ -1,6 +1,6 @@
 # nftool
 
-A suite of tools for NFT generative art.
+A suite of tools for NFT generative art.!
 
 ## Features
 
